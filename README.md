@@ -3,7 +3,7 @@
 By Wen Wang, Jing Zhang, Yang Cao, Yongliang Shen, and Dacheng Tao
 
 This repository is an official implementation of DE-CondDETR and DELA-CondDETR in the paper [Towards Data-Efficient Detection Transformers](https://arxiv.org/abs/2203.09507).
-CondDETR
+
 For the implementation of DE-DETR and DELA-DETR, please refer to [DE-DETRs](https://github.com/encounter1997/DE-DETRs).
 
 ## Introduction
